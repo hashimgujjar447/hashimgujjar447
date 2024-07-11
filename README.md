@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hashimgujjar447 a student and currenty stduying bscs from UNIVERSTY OF EDUCATION LAHORE PAKISTAN
+- 👋 Hi, I’m @hashimgujjar447 a student and currenty studying bscs from UNIVERSTY OF EDUCATION LAHORE PAKISTAN
 - 👀 I’m interested in technologies and learning new things.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
