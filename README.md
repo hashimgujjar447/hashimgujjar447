@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm Hashim Khalod! Welcome to my GitHub profile.
+Hi, I'm Muhammad Hashim! Welcome to my GitHub profile.
 
 ## About Me
 
@@ -8,7 +8,7 @@ Hi, I'm Hashim Khalod! Welcome to my GitHub profile.
 - 🌱 I’m currently learning new technologies and programming languages.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 📫 How to reach me: [Your Email](hashimgujjar4447@gmail.com)
 - ⚡ Fun fact: I love coding and solving complex problems.
 
 ## My Projects
@@ -21,12 +21,12 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java, C++
+- Programming Languages:  JavaScript, Java, C++
 - Frameworks and Libraries: React, Node.js, Django, Flask
 - Tools and Technologies: Git, Docker, Kubernetes, AWS
 
 ## Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or follow me on [Twitter](https://twitter.com/your-profile).
+Feel free to connect with me on [LinkedIn](linkedin.com/in/muhammad-hashim-45b54b326) 
 
 Thank you for visiting my profile!
