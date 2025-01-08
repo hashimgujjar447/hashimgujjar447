@@ -8,7 +8,7 @@ Hi, I'm Muhammad Hashim! Welcome to my GitHub profile.
 - 🌱 I’m currently learning new technologies and programming languages.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [Your Email](hashimgujjar4447@gmail.com)
+- 📫 How to reach me: (hashimgujjar4447@gmail.com)
 - ⚡ Fun fact: I love coding and solving complex problems.
 
 ## My Projects
