@@ -27,6 +27,6 @@ Here are some of the projects I've been working on:
 
 ## Contact Me
 
-Feel free to connect with me on [LinkedIn](linkedin.com/in/muhammad-hashim-45b54b326) 
+Feel free to connect with me on (linkedin.com/in/muhammad-hashim-45b54b326) 
 
 Thank you for visiting my profile!
