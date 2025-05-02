@@ -1,32 +1,63 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm Muhammad Hashim! Welcome to my GitHub profile.
+# 👋 Hi, I'm Muhammad Hashim
 
-## About Me
+Welcome to my GitHub! I'm a passionate **Full-Stack Web Developer** and **Python Enthusiast** from Pakistan. I specialize in building modern, dynamic applications using technologies like React, Node.js, Python (with Tkinter), and MySQL.
 
-- 🔭 I’m currently working on various interesting projects.
-- 🌱 I’m currently learning new technologies and programming languages.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything related to software development.
-- 📫 How to reach me: (hashimgujjar4447@gmail.com)
-- ⚡ Fun fact: I love coding and solving complex problems.
+---
 
-## My Projects
+## 🚀 About Me
 
-Here are some of the projects I've been working on:
+- 💻 I love building full-stack web apps that are responsive, efficient, and user-friendly.
+- 🐍 Experienced in Python GUI development with **Tkinter**.
+- 🛢️ Skilled in using **MySQL** for backend databases in both web and desktop applications.
+- 🔭 Currently expanding my knowledge in advanced data structures and software design patterns.
+- 🤝 Open to collaboration on real-world projects, open-source contributions, or freelance opportunities.
+- 📬 Reach me at: **[hashimgujjar4447@gmail.com](mailto:hashimgujjar4447@gmail.com)**
 
-- **Project 1**: A brief description of Project 1.
-- **Project 2**: A brief description of Project 2.
-- **Project 3**: A brief description of Project 3.
+---
 
-## Skills
+## 🧰 Tech Stack
 
-- Programming Languages:  JavaScript, Java, C++
-- Frameworks and Libraries: React, Node.js, Django, Flask
-- Tools and Technologies: Git, Docker, Kubernetes, AWS
+**Languages & Frameworks:**
 
-## Contact Me
+- JavaScript (ES6+), React.js, Node.js, Express.js  
+- Python, Tkinter (GUI), Flask (Basic)  
+- HTML5, CSS3, Bootstrap  
 
-Feel free to connect with me on (linkedin.com/in/muhammad-hashim-45b54b326) 
+**Databases:**
 
-Thank you for visiting my profile!
+- MongoDB  
+- MySQL  
+
+**Tools & Platforms:**
+
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Render, Railway (Deployment)
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the projects I've built:
+
+- 🎨 **Frontend**: Responsive UIs with React.js
+- 🔐 **Authentication Systems**: JWT, Redux, and protected routes
+- 🧮 **Python GUI Apps**: Calculators, converters, and more using Tkinter
+- 📊 **CRUD Apps**: Full-stack blog systems with nested comments
+
+> You can explore these projects in my repositories — most are structured and documented for learning and practical use.
+
+---
+
+## 📈 GitHub Stats
+
+![Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashimgujjar447&show_icons=true&theme=tokyonight)
+
+---
+
+Thanks for visiting! Feel free to ⭐️ any project you find helpful or interesting. Let's build something amazing together!
+
+
