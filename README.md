@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Web Developer** and **Python
 
 - JavaScript (ES6+), React.js, Node.js, Express.js  
 - Python, Tkinter (GUI), Flask (Basic)  
-- HTML5, CSS3, Bootstrap  
+- HTML5, CSS3, Tailwind
 
 **Databases:**
 
