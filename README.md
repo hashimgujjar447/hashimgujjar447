@@ -114,7 +114,7 @@ Modern landing page with animations, testimonials, and multi-step onboarding flo
 
 ### 🐍 Python Applications
 
-#### ���️ [Python Tkinter Projects](https://github.com/hashimgujjar447/PYTHON_TKINTER)
+#### 🖥️ [Python Tkinter Projects](https://github.com/hashimgujjar447/PYTHON_TKINTER)
 Collection of GUI applications built with **Tkinter** including school management system and various utility tools.
 - **Tech**: Python, Tkinter, MySQL
 - **Features**: School data management, GUI interfaces, Database integration
