@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Muhammad Hashim
 
-### Full-Stack Web Developer | Python Enthusiast | Open Source Contributor
+### Full-Stack Web Developer | Python Enthusiast 
 
 [![GitHub followers](https://img.shields.io/github/followers/hashimgujjar447?style=social)](https://github.com/hashimgujjar447)
 [![Email](https://img.shields.io/badge/Email-hashimgujjar4447%40gmail.com-red?style=flat&logo=gmail)](mailto:hashimgujjar4447@gmail.com)
